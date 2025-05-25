@@ -24,6 +24,6 @@
 ![Confusion_Matrix](images/Matrix.png)
 
 📂 Notebook
-👉 [View on Kaggle](https://www.kaggle.com/code/victoriacabrerag/)
+👉 [View on Kaggle]([https://www.kaggle.com/code/victoriacabrerag/catdog-99-acc-resnet50])
 
 Built with ❤️ by Victoria Cabrera
